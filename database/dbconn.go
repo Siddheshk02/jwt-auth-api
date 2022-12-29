@@ -13,7 +13,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "Sid@2002" //Enter your password for the DB
+	password = "<passwword>" //Enter your password for the DB
 	dbname   = "jwt-auth-api"
 )
 
